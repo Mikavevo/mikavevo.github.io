@@ -58,7 +58,6 @@ nav {
 .active:hover{
 	background-color:black;
 	color:white;
-	cursor:not-allowed;
 }
 .navbutton:active {
 	background-color:white;
@@ -68,6 +67,7 @@ nav {
 h2 {
 	font-size:48px;
 	text-align: left;
+	margin: 30px 300px 50px 300px;
 }
 .banner {
 	margin: 0 160px 0 160px;
@@ -75,7 +75,7 @@ h2 {
 	border:none;
 }
 .content {
-	margin: auto 300px;
+	margin: auto auto;
 }
 html {
 	padding: 0;
